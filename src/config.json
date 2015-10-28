@@ -1,7 +1,7 @@
 {
   "development": {
     "constants": {
-      "api": "https://api-foodio.herokuapp.com",
+      "api": "https://foodbox.com.br",
       "static": "https://s3-sa-east-1.amazonaws.com/speedy-development"
     }
   },
