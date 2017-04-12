@@ -8,7 +8,7 @@
   },
   "production": {
     "constants": {
-      "api": "https://api-foodio.herokuapp.com",
+      "api": "http://api.itsdelivery.com.br",
       "static": "https://s3-sa-east-1.amazonaws.com/foodio",
       "pusher": "40140f701bdcca1e51d8"
     }
